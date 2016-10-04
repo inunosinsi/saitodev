@@ -24,9 +24,6 @@
 </footer>
 </body>
 <style>
-    a{
-        color:grey;
-    }
     footer p{
         text-align:center;
     }
